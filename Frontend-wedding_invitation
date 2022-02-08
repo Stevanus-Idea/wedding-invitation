@@ -44,16 +44,11 @@
         </div>
       </div>
     </nav>
-    <div class="container-fluid banner">
-      <div class="container text-center">
-        <h4 class="display-6">Selamat datang di Nikah Ahh</h4>
-        <h3 class="display-1">silahkan dilihat</h3>
-      </div>
-    </div>
+    
     <!-- home -->
     <div class="container-fluid home pt-1 pb-5">
       <div class="container text-left">
-        <div class="row pt-1">
+        <div class="row pt-5">
           <div class="col-md-7">
             <h1 class="mt-1" id="home">Website Undangan Pernikahan Online</h1>
             <div class="col-md-2"></div>
@@ -158,7 +153,597 @@
     <!-- akhir Home -->
 
     <!-- Fitur -->
-    
+    <div class="container-fluid Fitur pt-5 pb-5">
+      <div class="container text-center">
+        <h2 class="display-3" id="fitur">Fitur</h2>
+        <!-- object & text -->
+        <div class="row pt-4">
+          <div class="col-md-4">
+            <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+            <h3 class="mt-3">Tema Menarik</h3>
+            <p>Terdapat berbagai macam pilihan tema dengan desain yang cantik dan elegan</p>
+          </div>
+          <div class="col-md-4">
+            <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+            <h3 class="mt-3">Informasi Pasangan</h3>
+            <p>Semua informasi mempelai tertampil secara lengkap di undangan</p>
+          </div>
+          <div class="col-md-4">
+            <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+            <h3 class="mt-3">Waktu & Lokasi</h3>
+            <p>Tersedia fitur penampil waktu dan lokasi akad, resepsi hingga acara unduh mantu</p>
+          </div>
+          <div class="col-md-4">
+            <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+            <h3 class="mt-3">Foto, Video & Musik</h3>
+            <p>Tersedia galeri foto dan video streaming untuk dokumentasi pre/wedding</p>
+          </div>
+          <div class="col-md-4">
+            <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+            <h3 class="mt-3">Petunjuk Peta</h3>
+            <p>Tampilan peta lokasi acara yang terintegrasi dengan Google Maps</p>
+          </div>
+          <div class="col-md-4">
+            <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+            <h3 class="mt-3">Couple Story & Quotes</h3>
+            <p>Ceritakan kisah cinta & quotes pernikahanmu kepada tamu undangan</p>
+          </div>
+          <div class="col-md-4">
+            <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+            <h3 class="mt-3">Tamu Undangan</h3>
+            <p>Setiap undangan yang dibagikan akan menampilkan nama tamu secara otomatis</p>
+          </div>
+          <div class="col-md-4">
+            <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+            <h3 class="mt-3">Buku Tamu</h3>
+            <p>Tamu undangan bisa mengirim ucapan dan doa melalui fitur buku tamu</p>
+          </div>
+          <div class="col-md-4">
+            <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+            <h3 class="mt-3">Hadiah</h3>
+            <p>Tersedia fitur kirim hadiah sumbangan secara online melalui undangan mu</p>
+          </div>
+          <center>
+            <div class="col-md-4">
+              <span class="lingkaran"><i class="fas fa-trophy fa-3x"></i></span>
+              <h3 class="mt-3">Countdown Timer</h3>
+              <p>Tersedia fitur countdown timer yang dapat berfungsi sebagai pengingat waktu acara</p>
+            </div>
+          </center>
+        </div>
+      </div>
+    </div>
+    <!-- content 4 -->
+    <div class="container-fluid pt-5 pb-5 konten">
+      <div class="container">
+        <div class="row pb-3">
+          <div class="col-md-6">
+            <div class="container">
+              <div class="row g-2">
+                <div class="col-6">
+                  <div class="p-3 border bg-light">
+                    <h4>1. Register</h4>
+                    <p>Isi alamat website yang diinginkan, email dan password akun milik Anda, kemudian lakukan aktivasi akun</p>
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="p-3 border bg-light">
+                    <h4>2. Isi Informasi</h4>
+                    <p>Isi seluruh informasi seperti waktu, lokasi, foto & video dan daftarkan tamu undangan Anda</p>
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="p-3 border bg-light">
+                    <h4>3. Share</h4>
+                    <p>Website undangan pernikahan online sudah siap dibagikan ke seluruh tamu undangan</p>
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="p-3 border bg-light">
+                    <h4>4. Pantau</h4>
+                    <p>Lihat statistik tamu yang hadir dan baca ucapan doa dari tamu undangan Anda</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="form-control form-control-lg" rows="6">
+              <h1 style="text-align: left">4 Langkah Mudah Menggunakan Datengdong</h1>
+              <p style="text-align: right">
+                <br />
+                Cukup lakukan 4 langkah untuk buat website undangan pernikahanmu sendiri. Wujudkan undangan pernikahan impian Anda bersama kami. Untuk lebih jelasnya silakan ikuti petunjuk dalam video tutorial di bawah ini.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- akhir content 4 -->
+
+    <!--Tema  -->
+
+    <div class="container-fluid pt-5 pb-5 bg-light" id="tema">
+      <div class="container">
+        <div class="row">
+          <div class="col"><h1>Pilihan Tema Eksklusif</h1></div>
+          <div class="col"><h5>Temukan tema undangan unik dan menarik dari Datengdong. Berbagai pilihan dan contoh desain undangan ekslusif ada disini.</h5></div>
+        </div>
+      </div>
+    </div>
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="container-fluid pt-5 pb-5 bg-light" id="tema">
+            <div class="container">
+              <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." id="imgtema" />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 01</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, nihil!</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 02</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, placeat.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 03</h5>
+                      <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere, assumenda?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 04</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, accusamus.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 05</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, consequuntur?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 06</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, iste?</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="container-fluid pt-5 pb-5 bg-light" id="tema">
+            <div class="container">
+              <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." id="imgtema" />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 07</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, nihil!</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 08</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, placeat.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 09</h5>
+                      <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere, assumenda?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 10</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, accusamus.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 11</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, consequuntur?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 12</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, iste?</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="container-fluid pt-5 pb-5 bg-light" id="tema">
+            <div class="container">
+              <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." id="imgtema" />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 13</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, nihil!</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 14</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, placeat.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 15</h5>
+                      <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere, assumenda?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 16</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, accusamus.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 17</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, consequuntur?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="img/Undangan Pernikahan 1.png" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                      <h5 class="card-title">Tema 18</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, iste?</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    <!-- Akhir Tema -->
+    <!-- Harga -->
+    <div class="container-fluid pt-5 pb-5 bg-fff" id="harga">
+      <div class="container">
+        <div class="row">
+          <div class="col"></div>
+          <div class="col"><h1>Tentukan Paketmu Sekarang Juga!</h1></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container fluid pt-5 pb-5 bg-light">
+      <div class="container align-content-md-center">
+        <div class="row pt-3">
+          <div class="col-md-3">
+            <div class="col-15">
+              <div class="p-3 border bg-light">
+                <h5>Starter</h5>
+                <h2>FREE</h2>
+                <p style="text-align: center">
+                  <p>2 Tema Premium</p> 
+                  <p>3 Tamu Undangan</p>
+                  <p>3 Foto & 1 Video</p>
+                  <p>Informasi Pasangan</p>
+                  <p>Waktu & Lokasi</p>
+                  <p>Buku Tamu</p>
+                  <p>Countdown Timer</p>
+                  <p>Aktif 7 Hari</p></p>
+                  <button type="button" class="btn btn-primary btn-lg">Buat Sekarang</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="col-15">
+              <div class="p-3 border bg-light">
+                <h5>Silver</h5>
+                <h2>49.000</h2>
+                <p style="text-align: left">
+                  <p>Semua Tema Premium</p>
+                  <p>100 Tamu Undangan</p>
+                  <p>100 Tamu Undangan</p>
+                  <p>Informasi Pasangan</p>
+                  <p>Waktu & Lokasi</p>
+                  <p>Petunjuk Peta</p>
+                  <p>Buku Tamu</p>
+                  <p>Countdown Timer</p>
+                  <p>Couple Story</p>
+                  <p>Couple Quotes</p>
+                  <p>Kirim Hadiah</p>
+                  <button type="button" class="btn btn-primary btn-lg">Buat Sekarang</button>
+                 
+              </div>
+            </div></div>
+          <div class="col-md-3">
+            <div class="col-15">
+              <div class="p-3 border bg-light">
+                <h5>Gold</h5>
+                <h2>99.000</h2>
+                <p style="text-align: center">
+                  <p>Tema Premium & Eksklusif</p>
+                  <p>1000 Tamu Undangan</p>
+                  <p>30 Foto & 3 Video</p>
+                  <p>Informasi Pasangan</p>
+                  <p>Waktu & Lokasi</p>
+                  <p>Petunjuk Peta</p>
+                  <p>Buku Tamu</p>
+                  <p>Countdown Timer</p>
+                  <p>Couple Story</p>
+                  <p>Couple Quotes</p>
+                  <p>Kirim Hadiah</p>
+                  <p>Aktif 1 Tahun</p>
+                  <p></p>
+                  <p></p></p>
+                  <button type="button" class="btn btn-primary btn-lg">Buat Sekarang</button>
+              </div>
+            </div></div>
+          <div class="col-md-3">
+            <div class="col-15">
+              <div class="p-3 border bg-light ">
+                <h5>Platinum</h5>
+                <h2>199.000</h2>
+                <p style="text-align: center">
+                  <p>Tema Premium & Eksklusif</p>
+                  <p>2000 Tamu Undangan</p>
+                  <p>30 Foto & 3 Video</p>
+                  <p>Informasi Pasangan</p>
+                  <p>Waktu & Lokasi</p>
+                  <p>Petunjuk Peta</p>
+                  <p>Buku Tamu</p>
+                  <p>Countdown Timer</p>
+                  <p>Couple Story</p>
+                  <p>Couple Quotes</p>
+                  <p>Kirim Hadiah</p>
+                  <p>Aktif 1 Tahun</p>
+                  <p>Domain Pribadi</p></p>
+                  <button type="button" class="btn btn-primary btn-lg">Buat Sekarang</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    <!-- Akhir  harga-->
+    <!-- content 5 -->
+    <div class="container-fluid pt-5 pb-5 bg-fff" id="harga">
+      <div class="container">
+        <h1 style="text-align: center">Pertanyaan Umum</h1>
+        <br><br><br>
+        <div class="row">
+          <div class="col"><h4>Apa yang saya siapkan untuk membuat undangan online?</h4><br> <p>Cukup register, kemudian isi informasi mempelai, lokasi akad nikah, resepsi, ngunduh mantu (jika ada), foto dan video prewedding, daftarkan tamu spesialmu.</p></div>
+          <div class="col"><h4>Bagaimana cara buat undangannya?</h4> <br><p>Klik Buat Undangan isi email dan password, verifikasi email kemudian isi semua informasi acara pernikahan! Apabila masih kurang jelas, lihat video tutorial penggunaan datengdong!</p></div>
+        </div>
+        <br>
+        <br>
+        <div class="row">
+          <div class="col"><h4>Apakah bisa custom tema sesuai keinginan saya?</h4><br> <p>Mohon maaf untuk custom tema saat ini kami belum menerima, silahkan gunakan tema yang sudah tersedia.</p></div>
+          <div class="col"><h4>Berapa lama undangan saya aktif?</h4> <br><p>Setelah register dan aktivasi berhasil, undangan langsung online dan kamu langsung dapat mengisi informasi pernikahanmu. Undanganmu akan bisa di akses hingga satu tahun kedepan.</p></div>
+        </div>
+        <br>
+        <br>
+        <div class="row">
+          <div class="col"><h4>Berapa lama undangan saya aktif?</h4><br> <p>Tentu saja bisa, informasi yang sudah kamu input bisa kamu ganti dengan mudah di dashboard mempelai.</p></div>
+          <div class="col"><h4>Berapa lama undangan saya aktif?</h4> <br><p>Kami senantiasa membantu kamu apabila terdapat kesulitan dalam mengisi informasi. Silahkan WhatsApp kami apabila membutuhkan bantuan.</p></div>
+        </div>
+      </div>
+    </div>
+    <!-- akhir content 5 -->
+  
+<!-- Footer -->
+<footer class="text-center text-lg-start bg-light text-muted">
+  <!-- Section: Social media -->
+  <section
+    class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
+  >
+    <!-- Left -->
+    <div class="me-5 d-none d-lg-block">
+      <span>Get connected with us on social networks:</span>
+    </div>
+    <!-- Left -->
+
+    <!-- Right -->
+    <div>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-google"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <!-- Right -->
+  </section>
+  <!-- Section: Social media -->
+
+  <!-- Section: Links  -->
+  <section class="">
+    <div class="container text-center text-md-start mt-5">
+      <!-- Grid row -->
+      <div class="row mt-3">
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+          <!-- Content -->
+          <h6 class=" fw-bold mb-4">
+           </i>NikahAhh
+          </h6>
+          
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+          <!-- Links -->
+          <h6 class="text-uppercase fw-bold mb-4">
+            Main
+          </h6>
+          <p>
+            <a href="#!" class="text-reset">Home</a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">Tentang</a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">Kontak Kami</a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">Login</a>
+          </p>
+        </div>
+        <!-- Grid column -->
+<!-- Grid column -->
+<div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+  <!-- Links -->
+  <h6 class="text-uppercase fw-bold mb-4">
+    Learn
+  </h6>
+  <p>
+    <a href="#!" class="text-reset">Fitur</a>
+  </p>
+  <p>
+    <a href="#!" class="text-reset">Harga</a>
+  </p>
+  <p>
+    <a href="#!" class="text-reset">Tema</a>
+  </p>
+  <p>
+    <a href="#!" class="text-reset">Syarat dan Ketentuan</a>
+  </p>
+  
+</div>
+<!-- Grid column -->
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+          <!-- Links -->
+          <h6 class="text-uppercase fw-bold mb-4">
+            Stories
+          </h6>
+          <p>
+            <a href="#!" class="text-reset">Portofolio</a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">Tutorial</a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">Keamanan dan Privasi</a>
+          </p>
+          
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+          <!-- Links -->
+          <h6 class="text-uppercase fw-bold mb-4">
+            Contact
+          </h6>
+          <p><i class="fas fa-home me-3"></i> Jakarta , Indonesia</p>
+          <p>
+            <i class="fas fa-envelope me-3"></i>
+            Tridigit@gmail.com
+          </p>
+          <p><i class="fas fa-phone me-3"></i> + 628 7890816845</p>
+          <p><i class="fas fa-print me-3"></i> + 628 7890816845</p>
+        </div>
+        <!-- Grid column -->
+      </div>
+      <!-- Grid row -->
+    </div>
+  </section>
+  <!-- Section: Links  -->
+
+  <!-- Copyright -->
+  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+    © 2022 Copyright:
+    <a class="text-reset fw-bold">Tridigit Technology.com</a>
+  </div>
+  <!-- Copyright -->
+</footer>
+<!-- Footer -->
+    <!-- akhir footer -->
   </body>
 </html>
-
